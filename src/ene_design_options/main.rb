@@ -39,6 +39,7 @@ module Eneroth
 
       # FEATURE: Could also create from Group or tag folder.
       # For SU 2021 and later, prefer a tag group named "Options: {group_name}"
+      # Also update readme.
 
       # Create a new OptionsGroup. Prefer factory methods over this.
       #
